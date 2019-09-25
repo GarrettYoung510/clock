@@ -1,4 +1,4 @@
-# Clock (Download and run on live server)
+# [Clock](https://garrettyoung510.github.io/clock/)
 
 ![Live Preview](https://media.giphy.com/media/gKNk5FGoHTFOVie7BR/giphy.gif)
 
@@ -10,11 +10,11 @@ Built as a refresher on manipulating time in javascript
 * Vanilla JS (string templating, time, date, setInterval)
 * Date FNS (formatting date & time)
 * Real DOM manipulation (innterHTML)
-* Live Server VS Extension (REQUIRED)
+* Live Server VS Extension (testing)
 
 ## Challenges
 
-* Must run on live server
+* Testing and learning Date FNS, but it is always fun to learn something new
 
 ## Next Steps
 
