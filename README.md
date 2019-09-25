@@ -1,4 +1,4 @@
-# [Clock](https://garrettyoung510.github.io/clock/)
+# Clock
 
 ![Live Preview](https://media.giphy.com/media/gKNk5FGoHTFOVie7BR/giphy.gif)
 
@@ -15,6 +15,7 @@ Built as a refresher on manipulating time in javascript
 ## Challenges
 
 * Testing and learning Date FNS, but it is always fun to learn something new
+* Date FNS cdn not compatible with GitHub as it is not secure (HTTP instead of HTTPS)
 
 ## Next Steps
 
