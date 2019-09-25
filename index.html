@@ -5,12 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Clock</title>
-
+    
     <style>
     body {
         background: #333333;
     }   
-    .clock {
+    .clock, .date {
         font-size: 4em;
         text-align: center;
         margin: 20px auto;
@@ -21,10 +21,15 @@
         padding: 20px;
         background: #444;
     }
+    .date {
+        margin-top: 20px;
+    }
         </style>
 </head>
 <body>
     <div class="clock"></div>
-    <script src="app.js"></script>
+    <div class="date"></div>
+    <script src="http://cdn.date-fns.org/v1.9.0/date_fns.min.js"></script>
+    <script src="/app.js"></script>
 </body>
 </html>
