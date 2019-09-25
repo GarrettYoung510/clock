@@ -1,4 +1,4 @@
-# Clock
+# Clock (Download and run on live server)
 
 ![Live Preview](https://media.giphy.com/media/gKNk5FGoHTFOVie7BR/giphy.gif)
 
